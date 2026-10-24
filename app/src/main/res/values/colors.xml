@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="kb_bg">#F1F2F6</color>
+    <color name="key_bg">#FFFFFF</color>
+    <color name="key_bg_pressed">#E3E7EF</color>
+    <color name="key_text">#1C1C1E</color>
+    <color name="key_special_bg">#D7DCE5</color>
+
+    <!-- 맞춤법 하이라이트: 반투명 블루 -->
+    <color name="highlight_fill">#332F6FED</color>
+    <color name="highlight_border">#662F6FED</color>
+    <!-- 텍스트 커서(엣지) : 더 짙은 블루 -->
+    <color name="highlight_cursor">#2F6FED</color>
+
+    <color name="suggestion_card_bg">#FFFFFF</color>
+    <color name="suggestion_word_old">#8A8A8E</color>
+    <color name="suggestion_word_new">#1C1C1E</color>
+</resources>
